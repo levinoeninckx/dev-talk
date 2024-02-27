@@ -6,8 +6,8 @@ import ConvexClientProvider from "./ConvexClientProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "My App Title",
-  description: "My app description",
+  title: "dev-talk",
+  description: "A platform where devs talk to devs",
 };
 
 export default function RootLayout({
